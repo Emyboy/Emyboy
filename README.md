@@ -2,9 +2,9 @@
 
 ## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-**Software Engineer | Technical Writer | Minimalist**
+**Software Engineer | Music Producer | 3D Artist**
 
-I'm Victor Onwuzor, a full stack Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work at [LevelTen Energy](https://leveltenenergy.com/) Seattle, USA remotely as a Full stack JavaScript Software Engineer. In my spare time, I enjoy reading, watching Anime, playing video games, and I am an aspiring Photographer.
+I'm Ifeora Stanley Chukwuemeka, a full stack Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work at [Kumba](https://www.meetkumba.com/), India remotely as a Full stack JavaScript Software Engineer. In my spare time, I enjoy making music, creating 3D art, and playing video games.
 
 **Want to stay in touch? You can find me here:**
 
