@@ -27,6 +27,7 @@ I'm Ifeora Stanley Chukwuemeka, a full stack Software Engineer with 4 years of e
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=git)
 
 <br>
 
