@@ -12,7 +12,7 @@ I'm Ifeora Stanley Chukwuemeka, a full stack Software Engineer with 4 years of e
 
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-chukwuemeka-0B3C49?style=flat-square&labelColor=black&color=black&logo=Stackoverflow&link=https://stackoverflow.com/users/10262515/emyboy)](https://stackoverflow.com/users/10262515/emyboy)
-[![Gmail Badge](https://img.shields.io/badge/-victor.onwuzor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukwuemekaifeora@gmail.com)](chukwuemekaifeora@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-chukwuemekaifeora@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chukwuemekaifeora@gmail.com)](chukwuemekaifeora@gmail.com)
 
 
 ## 💻 Technologies
