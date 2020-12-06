@@ -30,10 +30,10 @@ I'm Ifeora Stanley Chukwuemeka, a full stack Software Engineer with 4 years of e
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=onwuvic&show_icons=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=emyboy&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onwuvic&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emyboy&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=onwuvic)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=emyboy)
 
 </div>
