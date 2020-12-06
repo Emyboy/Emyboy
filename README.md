@@ -8,7 +8,7 @@ I'm Ifeora Stanley Chukwuemeka, a full stack Software Engineer with 4 years of e
 
 **Want to stay in touch? You can find me here:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-victoronwuzor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victoronwuzor/)](https://www.linkedin.com/in/victoronwuzor/)
+[![Linkedin Badge](https://img.shields.io/badge/-chukwuemeka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chukwuemeka-ifeora/)](https://www.linkedin.com/in/chukwuemeka-ifeora/)
 [![Twitter Badge](https://img.shields.io/badge/-@victoronwuzor-0B3C49?style=flat-square&labelColor=0B3C49&logo=Twitter&link=https://twitter.com/victoronwuzor)](https://twitter.com/victoronwuzor)
 [![Medium Badge](https://img.shields.io/badge/-@victoronwuzor-0B3C49?style=flat-square&labelColor=black&logo=Medium&link=https://medium.com/@victoronwuzor)](https://medium.com/@victoronwuzor)
 [![Stackoverflow Badge](https://img.shields.io/badge/-okwyvic-0B3C49?style=flat-square&labelColor=black&color=black&logo=Stackoverflow&link=https://stackoverflow.com/users/5954989/okwyvic)](https://stackoverflow.com/users/5954989/okwyvic)
