@@ -2,9 +2,9 @@
 
 ## Hey There! 🧡 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-**Software Engineer | Music Producer | 3D Artist**
 
-I'm Ifeora Stanley Chukwuemeka, a full stack Software Engineer with 4 years of experience building innovative solutions for globally distributed teams. I currently work at [Kumba](https://www.meetkumba.com/), India remotely as a Full stack JavaScript Software Engineer. In my spare time, I enjoy making music, creating 3D art, and playing video games.
+
+My name is Ifeora Stanley Chukwuemeka, a full stack Software Engineer with 3 years of experience building innovative solutions for globally distributed teams. I currently work at [Kumba](https://www.meetkumba.com/), India remotely as a Full stack JavaScript Software Engineer. In my spare time, I enjoy making music, creating 3D art, and playing video games.
 
 **Want to stay in touch? You can find me here:**
 
@@ -30,6 +30,9 @@ I'm Ifeora Stanley Chukwuemeka, a full stack Software Engineer with 4 years of e
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
 
 <br>
+  <figure><img src="https://wakatime.com/share/@86488211-d42b-45c1-bbf9-788c3b0335dd/8b8e6314-630c-41b2-bb4a-0782435d567d.svg" width="600" /></figure> 
+  
+  <figure><img src="https://wakatime.com/share/@86488211-d42b-45c1-bbf9-788c3b0335dd/c7a173c7-1652-4691-bd8d-4d8cf5f776f6.svg" width="600" /></figure>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=emyboy&show_icons=true&count_private=true)
 
