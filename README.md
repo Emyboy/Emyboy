@@ -4,7 +4,7 @@ Hi 👋 My name is Chukwuemeka Ifeora
 Full Stack Developer
 --------------------
 
-I'm a self-thought full stack developer, I write reusable, clean and testable code.
+I'm a self-taught full stack developer, I write reusable, clean and testable code.
 
 *   🌍  I'm based in Lagos, LA, NG
 *   🖥️  See my portfolio at [My Portfolio](http://chukwuemeka-ifeora.netlify.app)
