@@ -7,10 +7,10 @@ Full Stack Developer
 I'm a self-taught full stack developer, I write reusable, clean and testable code.
 
 *   🌍  I'm based in Lagos, LA, NG
-*   🖥️  See my portfolio at [My Portfolio](http://chukwuemeka-ifeora.netlify.app)
+*   🖥️  See my portfolio at [My Portfolio](https://chukwuemeka.idegin.com/)
 *   ✉️  You can contact me at [chukwuemekaifeora@gmail.com](mailto:chukwuemekaifeora@gmail.com)
 *   🚀  I'm currently working on [Sheruta](http://sheruta.ng/)
-*   🧠  I'm learning System Design and Algorithms
+*   🧠  I'm learning System Design and Architecture
 *   🤝  I'm open to collaborating on Web and Mobile projects### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
