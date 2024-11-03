@@ -1,31 +1,33 @@
-Hi 👋 My name is Chukwuemeka Ifeora
-===================================
+# Hey there 👋, I'm Emeka 🚀
 
-Full Stack Developer
---------------------
+I'm a seasoned software enginner with 5+ years of professional experience in web development, specializing in modern front-end frameworks and back-end systems. I focus on building robust, scalable, and high-performance web applications that drive business growth and enhance user experience.
 
-I'm a self-taught full stack developer, I write reusable, clean and testable code.
+---
 
-*   🌍  I'm based in Lagos, LA, NG
-*   🖥️  See my portfolio at [My Portfolio](https://chukwuemeka.idegin.com/)
-*   ✉️  You can contact me at [chukwuemekaifeora@gmail.com](mailto:chukwuemekaifeora@gmail.com)
-*   🚀  I'm currently working on [Sheruta](http://sheruta.ng/)
-*   🧠  I'm learning System Design and Architecture
-*   🤝  I'm open to collaborating on Web and Mobile projects### Skills<p align="left">
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-                                <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-                                <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-                                <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-                                <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  ### My Socials
-<p align="left"> <a href="https://www.dev.to/emyboy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a><a href="https://www.github.com/emyboy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="http://www.instagram.com/ifeora_emeka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/chukwuemeka-ifeora" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.polywork.com/emyboy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a><a href="http://www.medium.com/emyboy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a><a href="https://www.stackoverflow.com/users/ifeora-emeka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a><a href="https://www.twitter.com/ifeora_emeka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a href="http://www.github.com/emyboy"><img src="https://github-readme-stats.vercel.app/api?username=emyboy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="emyboy's GitHub stats" /></a><a href="http://www.github.com/emyboy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=emyboy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="http://www.github.com/emyboy"><img src="https://activity-graph.herokuapp.com/graph?username=emyboy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/emyboy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyboy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🚀 About Me
+
+- 💻 Currently working as a **Full Stack Developer (FE Heavy)** at **Proxify**, a talent acquisition platform connecting top-tier developers with businesses.
+- 🛠️ Previous experience as a **Team Lead** at **FoodBots (Kumba)** and **Full Stack Developer** at **MyWays** (an LMS platform).
+- 🌱 I'm actively learning **Rust** and revisiting **Computer Science fundamentals** to deepen my technical expertise.
+- 🧑‍💻 Passionate about converting **Figma designs** into pixel-perfect **TailwindCSS** and **ShadCN** code implementations.
+- 🏗️ I’m currently working on **BeatWig**, a Vite React-based Chrome extension.
+- 💡 Built several npm packages, including **mortar-studio**, **mortar-studio-client**, and **mortar** for the Next.js ecosystem, focusing on rendering and route management.
+- 🔧 Building a **Tauri + React GUI** to SSH into VPS, browse file systems, and execute bash commands.
+
+---
+
+
+## 🛠️ Tech Stack
+
+- **Frontend**: Next.js 13, TypeScript, React, TailwindCSS, Redux, Figma, UI/UX
+- **Backend**: Node.js, Express, Nest.js
+- **Database**: PostgreSQL, MongoDB
+- **DevOps**: AWS, Serverless, CI/CD
+- **Other Tools**: GraphQL, Prisma, Git, Docker, Tauri
+
+## 📚 Currently Learning
+- **Rust**: Exploring systems programming and low-level memory management with Rust.
+- **Computer Science**: Revisiting algorithms, data structures, and design patterns for deeper insights.
+
+
+Thanks for stopping by! Feel free to explore my projects, or reach out if you'd like to collaborate. Happy coding! 👨‍💻✨
