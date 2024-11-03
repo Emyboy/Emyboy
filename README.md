@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Emeka 🚀
 
-I'm a seasoned software enginner with 5+ years of professional experience in web development, specializing in modern front-end frameworks and back-end systems. I focus on building robust, scalable, and high-performance web applications that drive business growth and enhance user experience.
+I'm a expert software enginner with 5+ years of professional experience in web development, specializing in modern front-end frameworks and back-end systems. I focus on building robust, scalable, and high-performance web applications that drive business growth and enhance user experience.
 
 ---
 
