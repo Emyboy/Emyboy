@@ -19,7 +19,7 @@ I'm a seasoned software enginner with 5+ years of professional experience in web
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Next.js 13, TypeScript, React, TailwindCSS, Redux, Figma, UI/UX
+- **Frontend**: Next.js 15, TypeScript, React, TailwindCSS, Redux, Figma, UI/UX
 - **Backend**: Node.js, Express, Nest.js
 - **Database**: PostgreSQL, MongoDB
 - **DevOps**: AWS, Serverless, CI/CD
