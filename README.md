@@ -8,7 +8,7 @@ I'm an expert software enginner with 5+ years of professional experience in web 
 
 - 💻 Currently working as a **Full Stack Developer (FE Heavy)** at **Proxify**, a talent acquisition platform connecting top-tier developers with businesses.
 - 🛠️ Previous experience as a **Team Lead** at **FoodBots (Kumba)** and **Full Stack Developer** at **MyWays** (an LMS platform).
-- 🌱 I'm actively learning **Rust** and revisiting **Computer Science fundamentals** to deepen my technical expertise.
+- 🌱 I'm actively learning **Rust** and revisiting **Advanced Computer Science concepts** to deepen my technical expertise.
 - 🧑‍💻 Passionate about converting **Figma designs** into pixel-perfect **TailwindCSS** and **ShadCN** code implementations.
 - 🏗️ I’m currently working on **BeatWig**, a Vite React-based Chrome extension.
 - 💡 Built several npm packages, including **mortar-studio**, **mortar-studio-client**, and **mortar** for the Next.js ecosystem, focusing on rendering and route management.
